@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "autobind-decorator": "^2.1.0",
+    "buffer": "^5.1.0",
+    "lodash": "^4.17.10",
     "react": "16.4.1",
     "react-native": "0.56.0"
   },
